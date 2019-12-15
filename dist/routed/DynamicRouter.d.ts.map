@@ -1,0 +1,1 @@
+{"version":3,"file":"DynamicRouter.d.ts","sourceRoot":"","sources":["../src/routed/DynamicRouter.tsx"],"names":[],"mappings":"AACA,OAAO,KAAK,MAAM,OAAO,CAAA;AAIzB,MAAM,WAAW,mBAAmB;IAClC,QAAQ,CAAC,MAAM,EAAE,KAAK,CAAC,EAAE,CAAA;IACzB,QAAQ,CAAC,KAAK,EAAE,KAAK,CAAC,EAAE,CAAA;CACzB;AAGD,wBAAgB,aAAa,CAAC,CAAC,SAAS,EAAE,EACxC,UAAU,EAAE,CAAC,EACb,OAAO,EAAE,MAAM,GACd,mBAAmB,CAkCrB"}
